@@ -1,4 +1,6 @@
 🎓 Associate Degree Data Visualization
+
+
 This Excel project visualizes data on associate degrees, including:
 
 💵 Average Salary
